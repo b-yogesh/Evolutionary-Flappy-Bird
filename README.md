@@ -1,6 +1,6 @@
 # Evolutionary-Flappy-Bird
 
-This is an evolutionary game ste up in a flappy bird world, where multiple birds are spawned and they evolve into one of the best birds that can keep going through the hurdles for infinity and beyond.
+This is an evolutionary game set up in a Flappy Bird world, where multiple birds are spawned and they evolve into one of the best birds that can keep going through the hurdles for infinity and beyond.
 
 ![](https://i.colnect.net/f/3766/095/Buzz-Lightyear-to-infinity-and-beyond.jpg)
 
