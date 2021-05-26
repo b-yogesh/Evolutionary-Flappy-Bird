@@ -7,6 +7,7 @@ This is an evolutionary game set up in a Flappy Bird world, where multiple birds
 The Game was developed using p5js, and following the tutorials from Coding train (https://www.youtube.com/watch?v=c6y21FkaUqw)
 
 Live Demo: [Demo](https://editor.p5js.org/b-yogesh/present/VLRGtg84Q)
+Contribution : [The Coding Train](https://thecodingtrain.com/CodingChallenges/100.1-neuroevolution-flappy-bird.html)
 
 # Screenshot
 ![j1](https://user-images.githubusercontent.com/22027039/119660535-a96a7a00-be2f-11eb-8970-3ae18b27bf34.PNG)
